@@ -6,5 +6,5 @@
   <b>Anything that a computer scientist wouldn't normally dare to do is what I do!</b><br>
   <br>
   <br>
-  He/Him, Bi, INFP
+  He/Him, Pan, INFP
 </p>
