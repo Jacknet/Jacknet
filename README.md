@@ -1,10 +1,7 @@
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Sea_otter_cropped.jpg" alt="Sea otter" width="384"><br>
-  <i>(<a href="https://commons.wikimedia.org/wiki/File:Sea_otter_cropped.jpg">Mike Baird, CC BY 2.0</a>)</i><br>
-  <br>
-  Tech historian and alchemist, preservation efforts advocate, IT management for old & new computer systems.<br>
-  <b>Anything that a computer scientist wouldn't normally dare to do is what I do!</b><br>
-  <br>
-  <br>
-  He/Him, Pan, INFP
-</p>
+# Heads up!
+
+To better streamline my development workflows, all my remaining active repos and forks that are hosted on GitHub are currently in the process of being migrated to other Git platforms in which they will be maintained on moving forward.
+
+As a result, **effective at the end of 2023, these repos will be marked as archived on GitHub**.
+
+My profile on GitHub will still be available for contributing to other projects and as a snapshot to these repos from their date of archive.
